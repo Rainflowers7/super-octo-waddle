@@ -1,5 +1,24 @@
-# ?XD
-## ?XD 2
-### ?X?DD
+# Guide Français Ocarina of Time Randomizer 
+## Ressources Utiles
 
-[Home](./) | [???](./images/questionmark.md)
+[Home](./) | [Jouer à Ocarina of Time Randomizer] | [Générateur de monde](https://ootrandomizer.com/) | [Tracker OOTR](https://track-oot.net/) | [Mido's House](https://midos.house/) | [Conseils pour les débutants]
+
+## Ocarina of Time Randomizer, qu'est-ce que c'est ?
+
+### Le jeu sur lequel Ocarina of Time Randomizer est basé
+
+Ocarina of Time Randomizer est un dérivé fait par des fans du jeu officiel The Legend of Zelda: Ocarina of Time, sorti en 1996 sur la console de salon Nintendo 64. Le jeu reprend le concept établi sur les autres jeux de la série The Legend of Zelda : le personnage principal, Link, doit vaincre une entité qui a ruiné le pays d'Hyrule dans lequel l'aventure se déroule. La particularité de cet opus de la série est la capacité de "voyager dans le temps" conférée à Link une fois qu'il a réuni les pierres ancestrales gardées par divers peuples d'Hyrule (requête formulée par la princesse Zelda) et sorti l'Épée de légende de son socle, ce qui ironiquement amène à la chute du pays aux mains de Ganondorf, roi de la tribu Gerudo originaire du désert. Après sept ans passées dans un sommeil profond, Link doit traverser les âges afin de solliciter l'aide des six grands sages qui se sont réfugiés dans leurs temples respectifs afin de faire opposition à Ganondorf qui, pendant le sommeil de Link, a pris le contrôle d'Hyrule sous le titre autoproclamé de Seigneur du Malin. Il existe également une variante qui fait partie intégrante du jeu officiel, nommée "Master Quest", qui pimente le jeu en augmentant la difficulté générale, rajoute ou change des locations de coffres, et offre un défi supplémentaire pour les joueurs un peu plus alertes. 
+
+Le jeu a été importé pour la Nintendo 3DS en 2011 avec notamment des graphiques améliorés, mais Ocarina of Time Randomizer utilise la version sortie sur Nintendo 64.
+
+### Qu'est-ce qu'un "Randomizer" ?
+
+Le monde d'Hyrule est truffé de coffres, de monstres octroyant des récompenses, d'objets déjà présents au sol... Ocarina of Time Randomizer permet, comme son nom l'indique, de redistribuer aléatoirement les contenus de ces récompenses de coffres, monstres, objets au sol selon les choix faits par le joueur lorsque celui-ci a généré son monde et les règles régissant ce monde, mais pas que !
+
+### Qu'est-ce que le "Randomizer" ajoute ?
+
+- Là où le jeu original est assez linéaire dans sa progression si on exclut l'ordre dans lequel on réalise les quêtes secondaires et divers collectibles non nécessaires pour finir le jeu de base, le fait qu'on peut avoir un objet beaucoup plus tôt ou plus tard dans son aventure, ou bien pas du tout, change drastiquement la manière dont on aborde le jeu, même le but reste le même que pour le jeu original : affronter et vaincre Ganondorf pour rétablir la paix à Hyrule. 
+- Le joueur a un contrôle quasiment total sur la difficulté de son monde. Il peut pousser la difficulté pour avoir une grande peine à finir le jeu (certains paramètres peuvent même rendre un monde impossible à finir), tout comme il peut jouer normalement et juste passer par un endroit plus rapidement ou plus tard que dans le jeu original, ou bien avoir accès au "voyage dans le temps" à un moment différent de leur progression dans le jeu. Le générateur de monde propose également de générer des mondes avec des règles prédéfinies qui correspondent à divers paliers de difficulté !
+- Selon la difficulté choisie par le joueur, Ocarina of Time Randomizer peut placer des objets clés à la progression à des endroits difficiles d'accès sans certains objets. Cela est dû au travail incessant des experts au jeu qui, en ayant poussé le jeu à ses limites, ont rendu possible de nombreux "tricks" qui permettent au joueur d'accéder à certains endroits du jeu à l'aide d'une série de mouvements réalisables par un humain. Il y a donc un processus d'apprentissage supplémentaire au jeu, ce qui ouvre au joueur des possibilités pour ses futurs mondes générés d'aller à des endroits auparavant inaccessibles, et apprendre puis savoir exécuter de nouvelles techniques peut être une bonne source de satisfaction. Lorsqu'il génère son monde, le joueur peut choisir d'intégrer des "<i>tricks</i>" dans ce qu'on appelle la "<i>logique</i>" de son monde (ce que le jeu considère comme étant accessible au joueur et où il peut aller placer des objets). Attention cependant, si vous jouez à plusieurs la logique du monde est appliquée à tous les joueurs.
+- Là où le jeu original se joue uniquement seul, Ocarina of Time Randomizer offre la possibilité de jouer avec ses amis en direct ou en différé grâce à l'outil Mido's House, qui est tout aussi facile d'accès qu'à paramétrer !
+- Vous en avez marre de voir que seul Link peut vaincre Ganon en le "tuant" pour compléter un monde, et souhaitez voir du changement ? Ocarina of Time Randomizer vous propose de changer votre condition de victoire en quelque chose de moins barbare grâce au mode "Triforce Hunt", qui vous demande de rassembler un certain nombre de morceaux de la Triforce pour que Ganondorf soit scellé pour toujours, sans avoir à le tuer.
