@@ -1,4 +1,7 @@
-### Comment jouer à Ocarina of Time Randomizer
+# Comment jouer à Ocarina of Time Randomizer
+## Se diriger 
+
+[Home](./) | [Jouer à Ocarina of Time Randomizer](./jouer.md) | [Générateur de monde](https://ootrandomizer.com/) | [Tracker OOTR](https://track-oot.net/) | [Mido's House](https://midos.house/) | [Conseils pour les débutants](./conseils.md)
 
 à réécrire...
 
