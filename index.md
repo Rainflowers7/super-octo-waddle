@@ -1,6 +1,5 @@
 # Guide Français Ocarina of Time Randomizer 
-## Ressources Utiles
-
+## Se diriger
 [Home](./) | [Jouer à Ocarina of Time Randomizer](./jouer.md) | [Générateur de monde](https://ootrandomizer.com/) | [Tracker OOTR](https://track-oot.net/) | [Mido's House](https://midos.house/) | [Conseils pour les débutants](./conseils.md)
 
 ## Ocarina of Time Randomizer, qu'est-ce que c'est ?
