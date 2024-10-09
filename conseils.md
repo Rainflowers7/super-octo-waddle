@@ -1,4 +1,7 @@
 # Liste de conseils pour débuter sur Ocarina of Time Randomizer
+## Se diriger
+
+[Home](./index.md) | [Jouer à Ocarina of Time Randomizer](./jouer.md) | [Générateur de monde](https://ootrandomizer.com/) | [Tracker OOTR](https://track-oot.net/) | [Mido's House](https://midos.house/) | [Conseils pour les débutants](./conseils.md)
 
 ## Connaissance du jeu
 
