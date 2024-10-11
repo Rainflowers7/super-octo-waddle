@@ -34,7 +34,7 @@ Enfin, renseignez si vos donjons sont Vanilla (V) ou Master Quest (MQ) dans l'en
 
 Vous êtes parés à l'aventure !
 
-![image](https://github.com/user-attachments/assets/a360bb8d-a935-42ba-b4d5-c6e26e06b21f)
+![Alt text](https://github.com/user-attachments/assets/a360bb8d-a935-42ba-b4d5-c6e26e06b21f)
 
 > Tracker après configuration
 
@@ -42,9 +42,7 @@ Vous êtes parés à l'aventure !
 
 ### Fewer Tunics Requirement (Enfant et Adulte)
 
-Le trick "Fewer Tunics Requirement" n'est pas un trick à proprement parler, puisque sa réalisation ne dépend d'aucune séquence à réaliser par un humain. Lorsque ajouté à la liste de tricks, la logique du monde peut aller introduire des objets à aller chercher à des endroits où on aurait besoin d'une tunique Goron ou Zora pour y accéder en temps normal, soit parce qu'il fait trop chaud, soit parce qu'il faut passer par un chemin submergé (et où Link ne peut donc pas naturellement respirer); sans la tunique adéquate, un chronomètre apparaît avec le temps restant avant un game over forcé : votre survie dépend donc de votre vitesse de déplacement. Avec ce trick d'actif, il est donc essentiel de connaître la composition de chaque salle du jeu où un tel chronomètre serait actif ; vous trouverez une liste complète des salles où un chronomètre est actif ci-dessous. Une bonne chose à savoir est que le chronomètre maximum est déterminé par le nombre de réceptacles de coeurs en votre possession et lorsuq'il doit être déclenché, celui-ci est déterminé par votre vie actuelle (plus elle est haute, plus le chronomètre expirera tard). Plus vous avez de vie, mieux c'est !
-
-Insérer tableau des salles
+Le trick "Fewer Tunics Requirement" n'est pas un trick à proprement parler, puisque sa réalisation ne dépend d'aucune séquence à réaliser par un humain. Lorsque ajouté à la liste de tricks, la logique du monde peut aller introduire des objets à aller chercher à des endroits où on aurait besoin d'une tunique Goron ou Zora pour y accéder en temps normal, soit parce qu'il fait trop chaud (présence importante de lave), soit parce qu'il faut passer par un chemin submergé (et où Link ne peut donc pas naturellement respirer); sans la tunique adéquate, un chronomètre apparaît avec le temps restant avant un game over forcé : votre survie dépend donc de votre vitesse de déplacement. Avec ce trick d'actif, il est donc essentiel de connaître la composition de chaque salle du jeu où un tel chronomètre pourrait se déclencher. Une bonne chose à savoir est que le chronomètre maximum est déterminé par le nombre de réceptacles de coeurs en votre possession et lorsqu'il doit être déclenché, celui-ci est déterminé par votre vie actuelle (plus elle est haute, plus le chronomètre expirera tard). Plus vous avez de vie, mieux c'est !
 
 ### "Mido Skip" (Adulte uniquement)
 
@@ -61,7 +59,7 @@ Montez tout en haut de la Tour de Garde du Village Cocorico. Une fois en haut de
 
 > Exemple de "position 0"
 
-![image](https://github.com/user-attachments/assets/f67b84b0-f857-4512-aab3-03de8812e539)
+![Alt text](https://github.com/user-attachments/assets/f67b84b0-f857-4512-aab3-03de8812e539)
 
 
 > Sur la barrière
@@ -71,19 +69,28 @@ Montez tout en haut de la Tour de Garde du Village Cocorico. Une fois en haut de
 
 Montez jusqu'aux escaliers menant au Mont du Péril. Positionnez-vous en sorte de faire un saut vers le bout du toit de l'apothicaire, foncez tout droit sans relâcher la gâchette. Link sautera du rebord, et si vous êtes bien placé attrapera le toit. Montez dessus et faites un peu d'équilibre sur la barrière en bois afin de rejoindre l'homme sur son toit.
 
-![image](https://github.com/user-attachments/assets/f2d0572f-9ba3-4755-8e47-6a72e74510a7)
+![Alt text](https://github.com/user-attachments/assets/f2d0572f-9ba3-4755-8e47-6a72e74510a7)
 
 > Tout droit à partir de maintenant!
 
 ### Les bouteilles et leurs nombreux usages
 
-Vous pouvez en obtenir jusqu'à 4 par joueur, et ces bouteilles sont de réelles armes à la disposition d'un joueur afin de faire plein de choses un peu partout dans Hyrule. Après cette section, vous pourrez même utilier votre bouteille pour en faire un Ocarina afin de jouer de la musique !
+~~~~
+Vous pouvez en obtenir jusqu'à 4 par joueur, et ces bouteilles sont de réelles armes à la disposition d'un joueur afin de faire plein de choses un peu partout dans Hyrule. Après cette section, vous pourrez même utiliser votre bouteille pour en faire un Ocarina afin de jouer de la musique !
+~~~~
 
 - Usage normal d'une bouteille
 
 Les bouteilles peuvent contenir plusieurs choses, et servent de manière générale à réaliser des quêtes secondaires comme les Skulltulas d'or cachées dans les morceaux de terre fraîchement retournés ou les 10 Poes cachés à travers la plaine d'Hyrule, ou tout simplement pour progresser dans le jeu (accéder au Ventre de Jabu-Jabu avec un poisson). Voici une liste de contenants possibles pour une bouteille, et ce que vous pouvez en faire :
 
-Insérer tableau contenants bouteilles
+Contenant | Usage
+---------|--------
+Insectes | Sols fraîchement retournés (enfant), vente
+Poisson | Ouvrir le donjon "Ventre de Jabu-Jabu" (enfant), vente
+Flamme bleue | Faire fondre la glace rouge
+Âme de fantôme | Quête des 10 Big Poes au marché (adulte)
+Petité fée | Vous fait revivre si votre barre de vie est épuisée
+
 
 - Usage atypique
 
@@ -113,10 +120,10 @@ Ce token est, dans 90% des cas, la raison pour laquelle vous faites un deuxième
 
 ### Les Skulltulas d'or
 
-Au nombre de cent araignées, elles représentent environ un quart des localisations totales du jeu. Le tracker vous donne une vague idée d'où elles se trouvent dans chaque zone du jeu, mais il reste important de savoir leur localisation précise et comment les récupérer. Prendre un peu de temps pour apprendre cela est donc une bonne chose !
+Au nombre de cent araignées, elles représentent un peu moins d'un quart des localisations totales du jeu. Le tracker vous donne une vague idée d'où elles se trouvent dans chaque zone du jeu, mais il reste important de savoir leur localisation précise et avec quels objets les récupérer. Prendre un peu de temps pour apprendre cela est donc une bonne chose !
 
 ### Apprendre de nouveaux tricks et glitches
 
 - YouTube est une ressource formidable pour apprendre de nouveaux glitches ou tricks. Si vous souhaitez apprendre quelque chose de nouveau, rendez-vous sur la page de génération de monde, cliquez sur "Detailed Logic" puis naviguez à travers la (longue) liste de tricks. Choisissez-en un (ou plusieurs) et cherchez avec le moteur de recherche de YouTube une vidéo qui le(s) couvre(nt).
 
-- ZFG, joueur légendaire d'Ocarina of Time (original et Randomizer), a réalisé plusieurs vidéos couvrant le nombre incroyable de choses à faire dans le jeu via des glitches, et il a plusieurs vidéos traitant du sujet et où il réalise et explique comment les réaliser. Sa vidéo la plus complète est un extrait du show "That's Never Happened Before" organisé par GamesDoneQuick (un événement où se déplacent des joueurs du monde entier pour présenter un jeu et finir ce jeu d'une manière spécifique le plus rapidement possible) où il ne finit pas le jeu, mais [il réalise pendant presque 5 heures une bonne centaine de glitches](https://www.youtube.com/watch?v=q2UnkvALVRs). L'importance de ces glitches varie, mais la vidéo reste un excellent point de référencement pour apprendre quelque chose !
+- ZFG, joueur légendaire d'Ocarina of Time (original et Randomizer), a réalisé plusieurs vidéos couvrant le nombre incroyable de choses à faire dans le jeu via des glitches, et il a plusieurs vidéos traitant du sujet et où il explique comment les réaliser. Sa vidéo la plus complète est un extrait du show "That's Never Happened Before" organisé par GamesDoneQuick (un événement où se déplacent des joueurs du monde entier pour présenter un jeu et finir ce jeu d'une manière spécifique le plus rapidement possible) où il ne finit pas le jeu, mais [il réalise pendant presque 5 heures une bonne centaine de glitches](https://www.youtube.com/watch?v=q2UnkvALVRs). L'importance de ces glitches varie, mais la vidéo reste un excellent point de référencement pour apprendre quelque chose !
